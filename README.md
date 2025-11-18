@@ -49,7 +49,7 @@ Gosto de criar coisas úteis, rápidas e bem feitas.
 
 <img 
   height="165"
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=rreisnt&show_icons=true&theme=highcontrast&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=rreis-nt&show_icons=true&theme=highcontrast&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF"
 />
 
 </td>
@@ -57,7 +57,7 @@ Gosto de criar coisas úteis, rápidas e bem feitas.
 
 <img 
   height="165"
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rreisnt&layout=compact&theme=highcontrast&title_color=FF0000&text_color=FFFFFF"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rreis-nt&layout=compact&theme=highcontrast&title_color=FF0000&text_color=FFFFFF"
 />
 
 </td>
