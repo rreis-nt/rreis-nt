@@ -9,7 +9,7 @@
 
 ## 👤 **Sobre mim**
 
-Sou o **Ryan**, tenho **17 anos**, sou de **Guaíra - PR**, técnico em informática, desenvolvedor iniciante e estudante de **Desenvolvimento de Sistemas**.
+Sou o **Ryan**, tenho **17 anos**, sou de **Guaíra - PR**, Técnico em **Desenvolvimento de Sistemas**, Desenvolvedor iniciante e estudante de **Engenharia de Software**.
 
 Trabalho com:
 
